@@ -1,0 +1,14 @@
+#result {
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+  }
+  .dot {
+    position: absolute;
+    border-radius: 50%;
+  }
+  #dot{
+    position: relative;
+    top: 10px;
+  left:10px;
+  }
